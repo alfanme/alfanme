@@ -3,7 +3,7 @@
 My name is Ahmad Alfan 👦.\
 You can call me `Alfan`, we don't really have naming convention/semantics in my country.
 
-💻 Fullstack Developer at a newly founded startup called [Skinfo.ID](https://skinfo.id).\
+💻 Fullstack Developer at Bumi Labs.\
 🌏 Working remotely, mostly in Palembang and Bandung, Indonesia.\
 🥇 Mostly working with `JavaScript/TypeScript` (Web) and `Python` (Image Processing & Computer Vision).
 
