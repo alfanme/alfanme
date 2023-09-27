@@ -1,14 +1,11 @@
-### Hi! It's good to see you here 👋
+### Hi! It's nice to see you here 👋
 
 My name is Ahmad Alfan 👦.\
 You can call me `Alfan`, we don't really have naming convention/semantics in my country.
 
-💻 Fullstack Developer at Bumi Labs.\
-🌏 Working remotely, mostly in Palembang and Bandung, Indonesia.\
-🥇 Mostly working with `JavaScript/TypeScript` (Web) and `Python` (Image Processing & Computer Vision).
-
-👨‍🎓 Final year Telecommunication Eng. undergraduate student at Telkom University.\
-🤖 Research on Computer Vision to improve object detection performance in hazy scenes.
+💻 Fullstack Software Developer at [Gradient](https://www.gradientvs.com/gradient-tech).\
+🌏 Working remotely from Palembang, Indonesia.\
+🥇 Mostly working with `JavaScript/TypeScript` and `Python`.
 
 ⚡ Fun fact:
 - Grown up in a 🏡 small business family, I understand how employers would expect to their employees.
